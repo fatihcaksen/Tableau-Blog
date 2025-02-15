@@ -1,11 +1,6 @@
----
-title: "A Beginner's Guide to Mastering Tableau"
-author: "Fatih Caksen"
-date: "`r Sys.Date()`"
-output: html_document
----
 
-# Introduction
+# A Beginner's Guide to Mastering Tableau
+
 Tableau is a powerful tool for data visualization, allowing users to analyze, explore, and present data effectively. Whether you are a beginner or an experienced analyst looking to refine your skills, having access to the right resources can make all the difference. This blog post compiles essential web pages to guide new users in learning Tableau, creating impactful dashboards, and mastering data storytelling.
 
 ## ![Tableau Sketch](tableau_sketch.png)
