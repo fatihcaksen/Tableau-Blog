@@ -8,7 +8,7 @@ output: html_document
 # Introduction
 Tableau is a powerful tool for data visualization, allowing users to analyze, explore, and present data effectively. Whether you are a beginner or an experienced analyst looking to refine your skills, having access to the right resources can make all the difference. This blog post compiles essential web pages to guide new users in learning Tableau, creating impactful dashboards, and mastering data storytelling.
 
-## ![Tableau Sketch](tableau_sketch.png.webp) 
+## ![Tableau Sketch](tableau_sketch.png)
 
 ## 📌 Exploring Tableau Dashboards
 Explore these dashboards to understand how professionals present data effectively:
