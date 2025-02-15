@@ -1,6 +1,6 @@
 ---
 title: "A Beginner's Guide to Mastering Tableau"
-author: "Your Name"
+author: "Fatih Caksen"
 date: "`r Sys.Date()`"
 output: html_document
 ---
